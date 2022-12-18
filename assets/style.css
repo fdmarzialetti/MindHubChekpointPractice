@@ -87,7 +87,7 @@ h2{
     border-radius: 1em;
     max-width: 20rem;
     width:90%;
-    height: 20rem;
+    height: 40vh;
     background-color: var(--violeta);
 }
 
@@ -219,7 +219,5 @@ footer span a{
         padding: 1.5em 0;
         font-weight: bolder;
     }
-
-
 }
 
