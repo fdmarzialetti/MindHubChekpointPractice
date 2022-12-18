@@ -87,7 +87,7 @@ h2{
     border-radius: 1em;
     max-width: 20rem;
     width:90%;
-    height: 40vh;
+    min-height: 35vh;
     background-color: var(--violeta);
 }
 
