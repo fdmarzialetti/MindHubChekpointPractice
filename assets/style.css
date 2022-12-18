@@ -75,7 +75,7 @@ h2{
 }
 
 .card img{
-    border:4px solid var(--naranja);
+    border:3px solid var(--naranja);
     width: 100%;
     height: 50%;
     object-fit: cover;
@@ -180,8 +180,8 @@ footer span a{
 
     .card{
         max-width: auto;
-        width: 30%;
-        min-width: 30em;
+        min-width: 25em;
+        width: 20vw;
         height: 30em;
         padding:3em;
         border-radius: 2.5em;
